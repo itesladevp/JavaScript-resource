@@ -49,7 +49,7 @@ nav a{
   text-decoration: none;
   background: #ffffff;
   border-radius: 3px;
-  color: rgb(0,, 110, 255);
+  color: rgb(0, 110, 255);
   font-weight: bold;
   margin-right: 15px;
 }
